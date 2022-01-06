@@ -7,7 +7,7 @@ h1{
 h3{
     color:green;
 }
-section{
+.section1{
     display:flex;
 }
 .half{
@@ -23,5 +23,8 @@ section{
         background-image: linear-gradient(tomato, white);
         border-radius: 5px;
         padding: 10px;
-        margin:30px 20px;
+        margin:10px;
+    }
+    ,half2{
+        width: 50%;
     }
